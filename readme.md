@@ -2,9 +2,13 @@
 
 Hello! This is a simple, Python-powered, smartphone/tablet/laptop-controlled Raspberry Pi traffic light project.
 
-This is an improved/simplified version of a previous attempt at the same concept (https://github.com/andzandz/soslug-web-udp-controlled-pi-traffic-light) which used Python, JavaScript and PHP. This project has no JavaScript or PHP(!), and is simpler.
+It makes use of Flask, a micro web framework, to get a web server up and running with Python quickly. Normally this would be used to just return web pages to a web browser. This project combines Flask with the Python GPIO library.
 
-It makes use of Flask, a micro web framework, to get a web server up and running with Python quickly.
+Any questions? Contact me: 
+
+![email](https://raw.githubusercontent.com/andzandz/pi-traffic-light-v2/master/contact.png)
+
+This is an improved/simplified version of a previous attempt at the same concept (https://github.com/andzandz/soslug-web-udp-controlled-pi-traffic-light) which used Python, JavaScript and PHP. This project has no JavaScript or PHP(!), and is simpler.
 
 When set up and running correctly, browse to the IP address of the Pi and you should see a web page, with some links to change the colour of the LEDs.
 
