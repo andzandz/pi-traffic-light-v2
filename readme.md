@@ -56,4 +56,4 @@ It is also possible to set up the Pi to crete its own WiFi hotspot so anyone nea
 
 ----------
 
-This project was built by Andy K, Chair of SoSLUG.
+This project was built by Andy K, STEM Ambassador and Chair of SoSLUG, local Southend computing/technology club.
